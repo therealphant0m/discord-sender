@@ -1,9 +1,9 @@
 # discord-sender
 Скрипт, который отправляет сообщения от лица бота.
 
-# Установка
+## Установка
 
-## Linux
+### Linux
 
 `apt install git python python-pip`
 
@@ -15,6 +15,6 @@
 
 `python sender.py`
 
-## Windows
+### Windows
 
 Качаем скрипт со вкладки `releases` и пользуемся.
