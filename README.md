@@ -2,6 +2,9 @@
 Скрипт, который отправляет сообщения от лица бота.
 
 # Установка
+
+## Android
+
 `apt install git python python-pip`
 
 `git clone https://github.com/therealphant0m/discord-sender.git`
@@ -11,3 +14,7 @@
 `pip install -r requirements.txt`
 
 `python sender.py`
+
+## Windows
+
+Качаем скрипт со вкладки `releases` и пользуемся.
