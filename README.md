@@ -3,7 +3,7 @@
 
 # Установка
 
-## Android
+## Linux
 
 `apt install git python python-pip`
 
